@@ -4,7 +4,9 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Daniel Mayas Yuste -------> Danileganes06
+David Miragallas Serrano--> Miragallas
+Pablo Cantin Fabre -------> Pcantin8
 
 ## Objetivos del trabajo
 
