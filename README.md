@@ -1,6 +1,7 @@
 # La Camara Secreta.
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Se trata de un escape room en el que tendras que ir superando pruebas y dependiendo de las pruebas que superes se te darán distintos tipos de recompensas,
+el juego se podrá jugar de 1 a 4 jugadores, dependiendo de la edad y del número de jugadores la dificultad variará. La dificultad irá creciendo a medida que vayan pasando las pruebas.
 
 ## Integrantes del equipo
 
