@@ -14,3 +14,4 @@ Pablo Cantin Fabre -------> Pcantin8
 ## Objetivos del trabajo
 
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
+El objetivo principal de nuestro escape room sera de huir de una casa del terror donde tus decisiones decidiran si mueres o consigues escapar, pudiendo jugar con tus amigos. Para esto crearemos varios niveles diferentes que nos den la oportunidad de usar las distintas opciones que nos ofrece el programa c.
