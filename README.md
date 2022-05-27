@@ -1,7 +1,7 @@
 # La Camara Secreta.
 
-Se trata de un escape room en el que tendrás que ir superando pruebas y dependiendo de las pruebas que superes se te darán distintos tipos de recompensas.
-El juego se podrá jugar de 1 a 4 jugadores y dependiendo de la edad y del número de jugadores la dificultad variará. La dificultad irá creciendo a medida que vayan pasando las pruebas.
+Se trata de un escape room en el que tendrás que ir superando pruebas y dependiendo de las pruebas que superes se te darán monedas para canjearlas por recompensas.
+El juego se podrá jugar de 1 a 2 jugadores. La dificultad irá creciendo a medida que vayan pasando las pruebas.
 
 ## Integrantes del equipo
 
